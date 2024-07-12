@@ -1,0 +1,14 @@
+.perfil-form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.perfil-form label {
+    display: flex;
+    flex-direction: column;
+}
+
+.perfil-form button {
+    margin-top: 10px;
+}
